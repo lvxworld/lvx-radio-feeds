@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-02T18:36:24.811Z",
+  "stations": [
+    {
+      "id": "lux-edm",
+      "name": "LVX EDM",
+      "genre": "EDM",
+      "description": "The room goes dark, and the first kick lands.",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "0d43f582-4b4e-41e3-92f2-3f6f5160e411",
+          "title": "Luminous Build",
+          "url": "edm/0d43f582-4b4e-41e3-92f2-3f6f5160e411.mp3",
+          "sizeBytes": 10614528,
+          "durationSec": 331.638667
+        },
+        {
+          "id": "210f17b6-3208-4c47-b2bd-80d5d6cc3bb7",
+          "title": "Lux in Tenebris",
+          "url": "edm/210f17b6-3208-4c47-b2bd-80d5d6cc3bb7.mp3",
+          "sizeBytes": 5761536,
+          "durationSec": 179.998667
+        },
+        {
+          "id": "99ab56cb-62d7-4a05-a73a-2b6c4e9d3135",
+          "title": "Temporal",
+          "url": "edm/99ab56cb-62d7-4a05-a73a-2b6c4e9d3135.mp3",
+          "sizeBytes": 3294189,
+          "durationSec": 137.19866666666667
+        }
+      ]
+    },
+    {
+      "id": "lux-lux-mad-me",
+      "name": "LUX Mad Me",
+      "genre": "Progressive Metal",
+      "description": "Progressive Metal that makes me mad",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "679b026e-f923-4a47-847e-1e1a3e4b90ff",
+          "title": "Make me mad",
+          "url": "lux-mad-me/679b026e-f923-4a47-847e-1e1a3e4b90ff.mp3",
+          "sizeBytes": 6696621,
+          "durationSec": 278.95866666666666
+        }
+      ]
+    },
+    {
+      "id": "lux-pop",
+      "name": "LVX Pop",
+      "genre": "Pop",
+      "description": "The chorus you know by the second time around.",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "37860cdf-ea7d-4e00-90fd-1615ecf5417e",
+          "title": "A New Day",
+          "url": "pop/37860cdf-ea7d-4e00-90fd-1615ecf5417e.mp3",
+          "sizeBytes": 2353152,
+          "durationSec": 73.478667
+        },
+        {
+          "id": "8cb4958a-9fd0-4d25-ba83-5e51e33c6ebe",
+          "title": "Across the Light",
+          "url": "pop/8cb4958a-9fd0-4d25-ba83-5e51e33c6ebe.mp3",
+          "sizeBytes": 2240256,
+          "durationSec": 69.958667
+        }
+      ]
+    },
+    {
+      "id": "lux-relax",
+      "name": "LVX Relax",
+      "genre": "Ambient",
+      "description": "Soft light, open space, a little room to breathe.",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "official-f74f494566caca623dad755b",
+          "title": "We Rise And Carry On",
+          "url": "relax/official-f74f494566caca623dad755b.mp3",
+          "sizeBytes": 2674560,
+          "durationSec": 66.798667
+        }
+      ]
+    },
+    {
+      "id": "lux-rock",
+      "name": "LVX Rock",
+      "genre": "Rock",
+      "description": "Amps warm, windows open, nobody asks you to turn it down.",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "714420c1-d980-4f4f-8b95-11cab383fbb5",
+          "title": "Stay with the Rhythm",
+          "url": "rock/714420c1-d980-4f4f-8b95-11cab383fbb5.mp3",
+          "sizeBytes": 4800768,
+          "durationSec": 149.958667
+        },
+        {
+          "id": "7b98dad0-8a97-47ab-b9ae-538a918e31b2",
+          "title": "Carry On Heavy",
+          "url": "rock/7b98dad0-8a97-47ab-b9ae-538a918e31b2.mp3",
+          "sizeBytes": 4365312,
+          "durationSec": 136.358667
+        }
+      ]
+    }
+  ]
+}
