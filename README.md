@@ -1,9 +1,15 @@
-# LVX Radio
+# LVX Radio feed
 
-Public station catalog and MP3 files only. The private manager and its settings
-are not part of this repository. Only publish music you may distribute.
+The official station catalog behind **LVX Live** in [LVX in Radio](https://github.com/lvxworld/lvx-in-radio): the stations and songs that arrive in the app while you listen.
 
-GitHub Pages: select GitHub Actions in Settings → Pages. Commit and push these
-files when ready, then run “Publish radio files” manually from Actions.
-The public catalog is at your Pages URL followed by /catalog.json.
-No API key or running backend is needed to listen.
+You don't need anything from this repository to listen. The app already knows the address.
+
+**Catalog:** https://lvxworld.github.io/lvx-radio-feeds/catalog.json
+
+## Make your own feed
+
+A feed is just a folder of MP3 files and one `catalog.json` on a static website. No server, no account. The short guide is in [CREATE-YOUR-OWN-FEED.md](CREATE-YOUR-OWN-FEED.md).
+
+---
+
+This repository holds only the catalog and the songs. Only publish music you may distribute.
