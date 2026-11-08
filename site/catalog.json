@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T18:36:24.811Z",
+  "updatedAt": "2026-11-08T15:43:51.187Z",
   "stations": [
     {
       "id": "lux-edm",
@@ -29,6 +29,71 @@
           "url": "edm/99ab56cb-62d7-4a05-a73a-2b6c4e9d3135.mp3",
           "sizeBytes": 3294189,
           "durationSec": 137.19866666666667
+        }
+      ]
+    },
+    {
+      "id": "lux-lofi",
+      "name": "LVX Lofi",
+      "genre": "lo-fi",
+      "description": "Lights off, slow breath, drifting away.",
+      "enabled": true,
+      "tracks": [
+        {
+          "id": "0b44aaf9-7f00-4e45-beaf-ae98cb91a940",
+          "title": "Warm Static",
+          "url": "lofi/0b44aaf9-7f00-4e45-beaf-ae98cb91a940.mp3",
+          "sizeBytes": 5151788,
+          "durationSec": 214.59866666666667
+        },
+        {
+          "id": "31778887-94f0-44ea-a743-00817035c38a",
+          "title": "Slow Tide",
+          "url": "lofi/31778887-94f0-44ea-a743-00817035c38a.mp3",
+          "sizeBytes": 5167340,
+          "durationSec": 215.23866666666666
+        },
+        {
+          "id": "3c9977eb-6f35-46cf-82a4-45211c6f986c",
+          "title": "Fogged Windows",
+          "url": "lofi/3c9977eb-6f35-46cf-82a4-45211c6f986c.mp3",
+          "sizeBytes": 1915820,
+          "durationSec": 79.75866666666667
+        },
+        {
+          "id": "6f3bd6db-fc9c-44f8-b85b-c148e7b57963",
+          "title": "Coffee at Four",
+          "url": "lofi/6f3bd6db-fc9c-44f8-b85b-c148e7b57963.mp3",
+          "sizeBytes": 4453676,
+          "durationSec": 185.51866666666666
+        },
+        {
+          "id": "8e2f1799-4562-4acb-9831-387dc1d449f3",
+          "title": "Red Umbrellas",
+          "url": "lofi/8e2f1799-4562-4acb-9831-387dc1d449f3.mp3",
+          "sizeBytes": 2207276,
+          "durationSec": 91.91866666666667
+        },
+        {
+          "id": "8e995641-1d4d-4f3b-a542-ed195f09270a",
+          "title": "Sodium Light",
+          "url": "lofi/8e995641-1d4d-4f3b-a542-ed195f09270a.mp3",
+          "sizeBytes": 2489516,
+          "durationSec": 103.67866666666667
+        },
+        {
+          "id": "d0090fe1-c867-486d-a283-b03d60c44590",
+          "title": "Warm Static",
+          "url": "lofi/d0090fe1-c867-486d-a283-b03d60c44590.mp3",
+          "sizeBytes": 1789100,
+          "durationSec": 74.47866666666667
+        },
+        {
+          "id": "d1c9075a-29f8-46f4-9de4-a21d2b27d89d",
+          "title": "Last Metro",
+          "url": "lofi/d1c9075a-29f8-46f4-9de4-a21d2b27d89d.mp3",
+          "sizeBytes": 1552940,
+          "durationSec": 64.63866666666667
         }
       ]
     },
