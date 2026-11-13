@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T15:43:51.187Z",
+  "updatedAt": "2026-11-13T20:28:30.830Z",
   "stations": [
     {
       "id": "lux-edm",
@@ -143,6 +143,48 @@
       "description": "Soft light, open space, a little room to breathe.",
       "enabled": true,
       "tracks": [
+        {
+          "id": "48059fab-e200-4956-b9df-ec05cdd9cca6",
+          "title": "Hold The Light",
+          "url": "relax/48059fab-e200-4956-b9df-ec05cdd9cca6.mp3",
+          "sizeBytes": 5061356,
+          "durationSec": 210.84
+        },
+        {
+          "id": "6b626a0f-ccdd-48cf-9d07-4063be5afc31",
+          "title": "Breathe Again",
+          "url": "relax/6b626a0f-ccdd-48cf-9d07-4063be5afc31.mp3",
+          "sizeBytes": 3926060,
+          "durationSec": 163.52
+        },
+        {
+          "id": "839cd3ab-f996-43b5-b48c-9996bc50d3de",
+          "title": "Morning Over The Valley",
+          "url": "relax/839cd3ab-f996-43b5-b48c-9996bc50d3de.mp3",
+          "sizeBytes": 5553836,
+          "durationSec": 231.36
+        },
+        {
+          "id": "88a8b789-5858-433b-a862-31159ec37f73",
+          "title": "Hold The Light A Little Longer",
+          "url": "relax/88a8b789-5858-433b-a862-31159ec37f73.mp3",
+          "sizeBytes": 4159340,
+          "durationSec": 173.24
+        },
+        {
+          "id": "8a13b081-545e-4c74-b5b5-665a6779cd7a",
+          "title": "Where The River Bends",
+          "url": "relax/8a13b081-545e-4c74-b5b5-665a6779cd7a.mp3",
+          "sizeBytes": 4032620,
+          "durationSec": 167.96
+        },
+        {
+          "id": "d6729394-f64b-46c1-bd76-9bfab667bb97",
+          "title": "Under The Open Sky",
+          "url": "relax/d6729394-f64b-46c1-bd76-9bfab667bb97.mp3",
+          "sizeBytes": 4401836,
+          "durationSec": 183.36
+        },
         {
           "id": "official-f74f494566caca623dad755b",
           "title": "We Rise And Carry On",
